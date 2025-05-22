@@ -4,4 +4,4 @@ A = True
 B = True
 C = False
 resultado = A or C and (B != A) and A and not B
-print(resultado)  # Saída: False
+print(resultado)  
